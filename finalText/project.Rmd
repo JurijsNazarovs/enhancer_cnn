@@ -1,5 +1,5 @@
 ---
-title: "Concolution Neural Network in enhancer prediction"
+title: "Convolution Neural Network in enhancer prediction"
 author: "Jurijs Nazarovs"
 date: "12/15/2017"
 output:
